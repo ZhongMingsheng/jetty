@@ -5,8 +5,19 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Insert title here</title>
+
 </head>
 <body>
 <h1>hello</h1>
+<button>toVo</button>
+<form action="http://127.0.0.1:8080/vo" method="post">
+<input name="a" value="aaa"/>
+<input name="b" value="bbb"/>
+<input type="submit" name="to" value="ddddaaa"/>
+</form>
+<script type="text/javascript">
+
+	
+</script>
 </body>
 </html>

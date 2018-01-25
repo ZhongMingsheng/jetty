@@ -8,7 +8,7 @@ import org.springframework.web.servlet.ModelAndView;
 @Controller
 @RequestMapping("/anno")
 public interface Annoable {
-@RequestMapping("/hello")
-@ResponseBody
-public ModelAndView sayHello();
+	@RequestMapping("/hello")
+	@ResponseBody
+	public ModelAndView sayHello();
 }
